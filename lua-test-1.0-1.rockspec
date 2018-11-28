@@ -1,7 +1,7 @@
 package = "lua-test"
 version = "1.0-1"
 source = {
-   url = "git://github.com:zhangwei900808/lua-test.git",
+   url = "git://github.com/zhangwei900808/lua-test.git",
    tag = 'v1.0-1',
    branch = "master"
 }
